@@ -1,3 +1,8 @@
+
+
+$(document).foundationAccordion();
+
+
 ;(function ($, window, undefined) {
   'use strict';
 

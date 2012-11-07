@@ -1,10 +1,26 @@
+body {
+	background: #ff0 url('../images/nami.png');
+}
+
+.pic {
+	margin-top : 17px;
+	margin-left : 5px;
+ -webkit-box-shadow: 2px 2px 4px 0px #ababab;
+          	box-shadow: 2px 2px 4px 0px #ababab;
+
+}
+
 .logo {
+	font-family: 'Syncopate', sans-serif;
 	letter-spacing: .05em;
 	font-size: 2.5em;
 	margin-bottom: 5px;
-	color: #525252;
-	background-color: #e1e1e1;
-}
+	color: #f0f0f0;
+	padding-right :22px ;
+	 /*-webkit-box-shadow: 0px 0px 4px 0px #5e5e5e;
+          	 box-shadow: 0px 0px 4px 0px #5e5e5e;*/
+	/*background-color: #9e9e9e;
+*/}
 
 .logo2 { 
 	font-size: 1.2em;
@@ -12,14 +28,20 @@
 	padding-top: -3px;
 	padding-right: 6px;
 	color: #7e7e7e;
-	background-color: #e1e1e1;
+	background-color: #9e9e9e;
 }
 
 .button {
+	font-family: 'IM Fell DW Pica SC', serif;
 	font-size: .8em;
-	color: #7e7e7e;
-	background: #e1e1e1;
-	border-color: #e1e1e1;
+	color: #f0f0f0;
+	/*background: #ff0 url('../images/nami.png');*/
+	background: #5b5b5b;
+	border-color: #5b5b5b;
+	margin-top: 9px;
+	-webkit-box-shadow: 1px 1px 4px 0px #ababab;
+          	box-shadow: 1px 1px 4px 0px #ababab;
+
 }
 
 .button:hover {
