@@ -7,6 +7,8 @@ h1,h2,h3,h4{
 }
 
 .pic {
+	width: 100%;
+	text-align: center;
 	margin-top : 5px;
 	margin-left : 5px;
 /* -webkit-box-shadow: 2px 2px 4px 0px #ababab;
@@ -72,6 +74,10 @@ h1,h2,h3,h4{
 	font-size: 3em;
 	color: #f0f0f0;
 	font-family: 'IM Fell DW Pica SC', serif;
+}
+
+.chevrons:hover {
+	color: #525252;
 }
 
 /*.button2 {
