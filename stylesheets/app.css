@@ -40,7 +40,7 @@ h1,h2,h3,h4{
 .button {
 	font-family: 'IM Fell DW Pica SC', serif;
 	font-size: 1.2em;
-	color: #f0f0f0;
+	color: #bbbbbb;
 	background: none;
 	border-color: none;
 	margin-top: 9px;
@@ -80,29 +80,6 @@ h1,h2,h3,h4{
 	color: #525252;
 }
 
-/*.button2 {
-	font-family: 'IM Fell DW Pica SC', serif;
-	font-size: 1.2em;
-	color: #f0f0f0;
-	background: none;
-	border-color: none;
-	margin-top: 9px;
-	margin-bottom: -9px;
-	margin-right: .7px;
-	border:none;
-	font-weight: normal;
-	letter-spacing: .5em
-}
-
-.button2:hover {
-	color: #525252; 
-	background-color: #a4abbb;
-}
-
-.button2:focus {
-	box-shadow: 0 0 4px #ff9844
-}*/
-
 .nav {
 	list-style: none;
 	text-align: center;
@@ -110,4 +87,17 @@ h1,h2,h3,h4{
 
 .nav a {
 	width:100%;
+}
+
+p {
+	font-family: 'IM Fell DW Pica SC', serif;
+}
+
+.contact p {
+	color: #e4e4e4;
+	font-weight: lighter;
+	font-size: 1.1em;
+	margin-top: 100px;
+	letter-spacing: .1em;
+	/*margin-left: -2em;*/
 }
